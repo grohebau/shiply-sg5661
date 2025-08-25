@@ -1,0 +1,47 @@
+{
+  "G48813": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
+    "receiver": "Daniel Rothe, Bremer Str. 25, 27211 Bassum, Deutschland",
+    "price": "2.200 €",
+    "description": "Hersteller: Simson<br>Typ: S50 B2<br>Fahrgestelnummer: 4810484<br>Erstzulassung: 05/2015<br>KM laut Vorbesitzer: 5.656 km<br>Leistung: 4 kW (5 PS)<br>Hubraum: 70 cm³<br>Farbe: Blau<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Daniel Rothe<br>Bremer Str. 25<br>27211 Bassum<br>Deutschland<br>Telefon: +49 175 4593399",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "25-08-2025",
+    "deliveryDate": "28-08-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
