@@ -28,18 +28,18 @@
     "orderDate": "25-08-2025",
     "deliveryDate": "01-09-2025, 15:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
-    },
-    "delivery": {
       "street": "Poststraße 3",
       "postal_code": "04158",
       "city": "Leipzig",
       "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
       "lat": "",
       "lng": ""
     }
