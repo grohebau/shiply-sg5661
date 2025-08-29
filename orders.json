@@ -1,6 +1,6 @@
 {
   "G48813": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
     "receiver": "Daniel Rothe, Bremer Str. 25, 27211 Bassum, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "25-08-2025",
-    "deliveryDate": "28-08-2025",
+    "deliveryDate": "01-09-2025, 15:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
@@ -36,10 +36,10 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Poststraße 3",
+      "postal_code": "04158",
+      "city": "Leipzig",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     }
